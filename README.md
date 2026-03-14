@@ -48,7 +48,7 @@ Le script supprime uniquement les dossiers sélectionnés par l'utilisateur.
 
 ## 📸 Preview
 
-![Preview](./assets/preview.png)
+![Preview](./assets/preview.jpg)
 
 ---
 
