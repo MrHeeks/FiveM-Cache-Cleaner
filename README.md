@@ -76,7 +76,7 @@ The script only deletes folders selected by the user.
 - Support for custom installations (editable folder path)
 - Display of each folder size before deletion
 - Automatic detection and closing of FiveM if running
-- Interface in English (If the PC is in English, French available via `[L]`)
+- Interface in English by default — French available via [L]
 - Installation path saved between sessions
 
 ### Usage
