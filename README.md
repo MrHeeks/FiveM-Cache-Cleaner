@@ -32,7 +32,7 @@ Le script supprime uniquement les dossiers sélectionnés par l'utilisateur.
 - Prise en charge des installations personnalisées (dossier modifiable)
 - Affichage de la taille de chaque dossier avant suppression
 - Détection et fermeture automatique de FiveM si ouvert
-- Interface en français (Si PC en anglais, changement disponible via `[L]`)
+- Interface en français par défaut — anglais disponible via [L] sur PC non-français
 - Mémorisation du chemin d'installation entre les sessions
 
 ### Utilisation
