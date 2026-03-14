@@ -46,6 +46,10 @@ Le script supprime uniquement les dossiers sélectionnés par l'utilisateur.
 - Windows 10 / 11
 - PowerShell 5.1 (inclus par défaut sur Windows 10/11)
 
+## 📸 Preview
+
+![Preview](./assets/preview.png)
+
 ---
 
 ## 🇬🇧 English
