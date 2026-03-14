@@ -90,6 +90,9 @@ The script only deletes folders selected by the user.
 - Windows 10 / 11
 - PowerShell 5.1 (included by default on Windows 10/11)
 
+## 📸 Preview
+
+![Preview](./assets/preview_EN.jpg)
 ---
 
 ## 🤝 Contributing
