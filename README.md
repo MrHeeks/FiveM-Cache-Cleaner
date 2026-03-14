@@ -4,6 +4,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F72-brightgreen)]([https://www.virustotal.com/gui/file/REMPLACER_PAR_TON_LIEN](https://www.virustotal.com/gui/file/93c9a29a3a265a785d8b1ca1e346c00d2ee8190be3beeefd36469e8e0ed4fd7f?nocache=1))
 
 ---
 
